@@ -1,0 +1,51 @@
+PROPRIETARY SOFTWARE LICENSE
+
+ADCS.ESC.Assessment
+Copyright (c) 2026 Mustafa Emre GUL - m3g yazilim ve danismanlik.
+All rights reserved.
+
+1. OWNERSHIP
+   This software, including its source code, modules, scripts, documentation,
+   and all associated files (collectively, the "Software"), is the exclusive
+   property of Mustafa Emre GUL / m3g yazilim ve danismanlik (the "Owner") and
+   is protected by copyright and other intellectual-property laws. All rights
+   not expressly granted in writing are reserved by the Owner.
+
+2. NO LICENSE GRANTED
+   No permission is granted to any person or organization to use, copy, run,
+   modify, merge, publish, distribute, sublicense, sell, or create derivative
+   works of the Software, in whole or in part, without the prior written
+   consent of the Owner. Access to, or possession of, the Software (including
+   via the PowerShell Gallery, GitHub, or any other channel) does not grant any
+   such right.
+
+3. AUTHORIZED USE
+   Any use of the Software requires a separate written agreement with the Owner.
+   Where such written authorization is granted, it defines the permitted scope,
+   term, and conditions of use, and this notice must be retained in all copies.
+
+4. NON-DESTRUCTIVE / AUTHORIZED TESTING ONLY
+   The Software performs read-only, non-destructive security assessment of
+   Active Directory Certificate Services. It must be run only against systems
+   that the operator owns or has explicit written authorization to test. The
+   operator is solely responsible for obtaining all necessary permissions and
+   for complying with all applicable laws and regulations.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+7. CONTACT
+   For licensing and permission requests, contact the Owner:
+   m3g yazilim ve danismanlik - https://www.m3g.com.tr
+
+Unauthorized use, reproduction, or distribution of this Software, or any
+portion of it, may result in civil and criminal penalties, and will be
+prosecuted to the maximum extent possible under the law.
